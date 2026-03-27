@@ -25,5 +25,5 @@ public enum Ingredient
     DietCoke,
     CocaCola,
     Fanta,
-    Milk
+    Milkshake
 }

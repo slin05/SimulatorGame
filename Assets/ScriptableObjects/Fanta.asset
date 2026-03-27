@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6007f851d2944abd7d9c5ea7191e9, type: 3}
   m_Name: Fanta
   m_EditorClassIdentifier: Assembly-CSharp::Recipe
-  foodName: 
+  foodName: Fanta
   requiredIngredients: 
   choiceIngredients: 
   requiresCooking: 0

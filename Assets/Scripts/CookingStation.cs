@@ -32,7 +32,7 @@ public class CookingStation : MonoBehaviour
     void BurnFood()
     {
         isCooking = false;
-        //ScoreManager.Instance.DeductMoney(currentRecipe.wasteCost);
+        ScoreManager.Instance.DeductMoney(currentRecipe.wasteCost);
         Debug.Log("Food burnt! Cost: " + currentRecipe.wasteCost);
         // ScoreManager will go here later
     }

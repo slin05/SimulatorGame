@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6007f851d2944abd7d9c5ea7191e9, type: 3}
   m_Name: Salad
   m_EditorClassIdentifier: Assembly-CSharp::Recipe
-  foodName: 
+  foodName: Salad
   requiredIngredients: 03000000040000000d000000
   choiceIngredients: 0e0000000f000000
   requiresCooking: 0
